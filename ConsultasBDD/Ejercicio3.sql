@@ -1,0 +1,26 @@
+--Listar nombre y teléfono de los usuarios con teléfono NOKIA, BLACKBERRY o SONY
+
+SELECT Nombre,Telefono FROM usuarios WHERE Marca IN ('NOKIA','BLACKBERRY','SONY');
+
+--Telefono	
+--Nombre	
+--655-143-3922
+--JOSE
+--655-100-8260
+--LUIS
+--655-145-2586
+--DANIEL
+--655-330-5514
+--JAQUELINE
+--655-143-3952
+--DIANA
+--655-137-4253
+--VALENTINA
+--655-145-4992
+--LUCIA
+--655-330-5143
+--JESSICA
+--655-143-4019
+--LETICIA
+--655-100-5085
+LUIS

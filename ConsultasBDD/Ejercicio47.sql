@@ -1,0 +1,21 @@
+--Listar nombre y teléfono de los usuarios con teléfono que no sea de la marca 
+--MOTOROLA o NOKIA
+
+SELECT Nombre, Telefono FROM usuarios WHERE NOT Marca IN ('MOTOROLA','NOKIA');
+
+--Nombre	Telefono	
+--BRENDA    655-330-5736
+--OSCAR     655-143-4181
+--LUIS      655-137-1279
+--DANIEL    655-145-2586
+--JAQUELINE 655-330-5514
+--ROMAN     655-330-3263
+--BLAS      655-330-3871
+--JESSICA   655-143-6861
+--DIANA     655-143-3952
+--VALENTINA 655-137-4253
+--LUCIA     655-145-4992
+--JUAN      655-100-6517
+--JESSICA   655-330-5143
+--LETICIA   655-143-4019
+--LUIS      655-100-5085

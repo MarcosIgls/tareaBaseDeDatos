@@ -1,0 +1,27 @@
+--Listar nombre y teléfono de los usuarios con teléfono LG, SAMSUNG o MOTOROLA
+SELECT Nombre,Telefono FROM usuarios WHERE Marca IN ('LG','SAMSUNG','MOTOROLA');
+
+--Nombre	
+--Telefono	
+--BRENDA
+--655-330-5736
+--OSCAR
+--655-143-4181
+--LUIS
+--655-137-1279
+--ROMAN
+--655-330-3263
+--BLAS
+--655-330-3871
+--JESSICA
+--655-143-6861
+--RICARDO
+--655-145-6049
+--BRENDA
+--655-100-1351
+--JUAN
+--655-100-6517
+--ELPIDIO
+--655-145-9938
+--HUGO
+--655-137-3935

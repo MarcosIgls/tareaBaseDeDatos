@@ -1,0 +1,18 @@
+--Listar el login de los usuarios con nivel 1, 2 o 3
+SELECT Usuario FROM usuarios WHERE Nivel IN ('1','2','3');
+--Usuario	
+--BRE2271
+--OSC4677
+--JOS7086
+--LUI7072
+--ROM6520
+--JES4752
+--DIA6570
+--RIC8283
+--BRE8106
+--LUC4982
+--ELP2984
+--JES9640
+--LET4015
+--LUI1076
+--HUG5441

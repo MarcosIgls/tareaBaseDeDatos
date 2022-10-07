@@ -1,0 +1,33 @@
+--Listar nombre y teléfono de los usuarios con teléfono que no sea de la marca LG o SAMSUNG
+SELECT Nombre,Telefono FROM usuarios WHERE NOT Marca IN ('LG','SAMSUNG');
+
+--Nombre	
+--Telefono	
+--JOSE
+--655-143-3922
+--LUIS
+--655-100-8260
+--DANIEL
+--655-145-2586
+--JAQUELINE
+--655-330-5514
+--DIANA
+--655-143-3952
+--RICARDO
+--655-145-6049
+--VALENTINA
+--655-137-4253
+--BRENDA
+--655-100-1351
+--LUCIA
+--655-145-4992
+--ELPIDIO
+--655-145-9938
+--JESSICA
+--655-330-5143
+--LETICIA
+--655-143-4019
+--LUIS
+--655-100-5085
+--HUGO
+--655-137-3935

@@ -1,0 +1,26 @@
+--Listar los nombres de los usuarios
+SELECT Nombre FROM usuarios;
+
+--Nombre	
+--BRENDA
+--OSCAR
+--JOSE
+--LUIS
+--LUIS
+--DANIEL
+--JAQUELINE
+--ROMAN
+--BLAS
+--JESSICA
+--DIANA
+--RICARDO
+--VALENTINA
+--BRENDA
+--LUCIA
+--JUAN
+--ELPIDIO
+--JESSICA
+--LETICIA
+--LUIS
+--HUGO
+

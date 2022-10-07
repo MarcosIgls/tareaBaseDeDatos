@@ -1,0 +1,18 @@
+--Listar el login y teléfono de los usuarios con compañía telefónica que no sea 
+--TELCEL o IUSACELL
+
+SELECT Usuario, Telefono FROM usuarios WHERE NOT Compania IN ('TELCEL','IUSACELL');
+
+--Usuario	Telefono	
+--JOS7086   655-143-3922
+--DAN2832   655-145-2586
+--JAQ5351   655-330-5514
+--BLA9739   655-330-3871
+--DIA6570   655-143-3952
+--VAL6882   655-137-4253
+--BRE8106   655-100-1351
+--JUA2337   655-100-6517
+--ELP2984   655-145-9938
+--LET4015   655-143-4019
+--LUI1076   655-100-5085
+--HUG5441   655-137-3935
